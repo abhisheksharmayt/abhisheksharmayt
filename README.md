@@ -15,7 +15,7 @@ I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
   <br/>
     
    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhihsheksharmayt&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abhisheksharmayt&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
   </a>
 </p>
 
