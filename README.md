@@ -5,7 +5,9 @@ I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
   </samp>
     <br>
     <br>
-    <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br> 
+    <img  src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" height="230">
+<!--     <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /> -->
+    <br> 
 </p>
     
 <p align="center">
