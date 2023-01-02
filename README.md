@@ -20,7 +20,7 @@ I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
     <img src="https://github-readme-stats.vercel.app/api?username=abhisheksharmayt&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
   </a>
 </p>
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abhisheksharmayt&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
+<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abhisheksharmayt&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p> -->
 <p align='center'><img src="https://komarev.com/ghpvc/?username=abhisheksharmayt" alt="abhisheksharmayt-view-counter" /></p>
 
 
