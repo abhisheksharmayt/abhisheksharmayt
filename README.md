@@ -1,10 +1,10 @@
 <p align="left">
     <h4>Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h4>
-  <h4>
+  <p>
     I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
     <br>
-    I'm Currently mastering ReactJS.
-  </h4>
+    I'm Currently learning ReactJS and building utility web apps.
+  </p>
     <br>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> 
@@ -39,7 +39,6 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> 
       </a>
     </p>
-    <br>
     <p>
         <h3 align="left">Coding Profiles:</h3>
         <a href="https://www.leetcode.com/abhisheksharmayt" target="_blank"> 
@@ -76,6 +75,7 @@
 <!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abhisheksharmayt&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p> -->
 <p align='center'>
     <a href="https://abhisheksharma.tech">abhisheksharma.tech</a>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=abhisheksharmayt" alt="abhisheksharmayt-view-counter" />
 </p>
 
