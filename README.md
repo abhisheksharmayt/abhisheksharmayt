@@ -1,16 +1,49 @@
-<p align="center">
-    <b>Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></b><br><br>
-  <samp>
+<p align="left">
+    <h2>Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h2><br><br>
+  <h2>
 I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
-  </samp>
+  </h2>
     <br>
     <br>
-    <img  src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="300" height="230">
+    <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://cplusplus.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
+  </a>
+  <a href="https://beta.reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind_css"/> 
+  </a>
+  <a href="https://www.mongodb.com/docs/develop-applications/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> 
+  </a>
+</p>
+<!--     <img  src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="300" height="230"> -->
 <!--     <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /> -->
     <br> 
 </p>
     
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharmayt&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
