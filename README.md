@@ -72,7 +72,7 @@
 </p>
 <!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=abhisheksharmayt&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p> -->
 <p align='center'>
-    <a href="https://abhisheksharma.tech">abhisheksharma.tech</a>
+    <a href="https://abhisheksharma.tech">aabhishek.tech</a>
     <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=abhisheksharmayt" alt="abhisheksharmayt-view-counter" />
