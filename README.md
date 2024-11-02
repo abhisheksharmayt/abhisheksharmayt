@@ -3,7 +3,7 @@
   <p>
     I'm Abhishek Sharma. A Front End Web Developer from Delhi, India.
     <br>
-    I'm Currently learning ReactJS and building utility web apps.
+    I'm Currently learning React Native.
   </p>
     <br>
     <h3 align="left">Languages and Tools:</h3>
